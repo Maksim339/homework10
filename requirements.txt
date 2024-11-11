@@ -1,5 +1,10 @@
-pandas
-numpy
-tqdm
-geomdl
-scipy
+geomdl==5.3.1
+numpy==2.1.3
+pandas==2.2.3
+pip==23.2.1
+python-dateutil==2.9.0.post0
+pytz==2024.2
+scipy==1.14.1
+six==1.16.0
+tqdm==4.67.0
+tzdata==2024.2
